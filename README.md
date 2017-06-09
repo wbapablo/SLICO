@@ -12,3 +12,14 @@ Radhakrishna Achanta, Appu Shaji, Kevin Smith, Aurelien Lucchi, Pascal Fua, and 
 In this approach, it's assumed a rectangular 'pseudo-grid' of size: rows-8 , cols-10. Number of superPixels=80. So the connected components algorithm will only execute if the SLIC algorithms detects 80 superpixels. This can be modified though. :) so no worries.
 
 This was tested using Ubuntu 14.08 in the Eclipse IDE.
+
+
+EXAMPLE
+
+test image
+
+
+
+after SLIC
+
+![slic](https://user-images.githubusercontent.com/11812560/26956005-629282f0-4c80-11e7-9131-d56e5b5c9e46.png)
