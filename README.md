@@ -17,8 +17,7 @@ This was tested using Ubuntu 14.08 in the Eclipse IDE.
 EXAMPLE
 
 test image
-
-
+![sq1](https://user-images.githubusercontent.com/11812560/26956039-a0649b68-4c80-11e7-9c10-d77115dc0f8d.png)
 
 after SLIC
 
